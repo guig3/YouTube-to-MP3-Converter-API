@@ -24,8 +24,6 @@ Please replace YouTube-Video-ID with dynamic video id value.
 
 Youtube URL: https://www.youtube.com/watch?v= **rNteJDNG5qY**
 
-YouTube-Video-ID: **rNteJDNG5qY**
-
-Please write to us for any query or support: contato@toquemp3.com
+YouTube-Video-ID: **rNteJDNG5qY**p3.com
 
 Official API Website: https://api.tubemp3.biz
